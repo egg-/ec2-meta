@@ -7,7 +7,7 @@ ec2meta.load(function(err, categories) {
     console.log(err, categories);
 });
 
-// // load meta data
+// load meta data
 ec2meta.load('instance-id', function(err, value) {
     console.log(err, value);
 });
