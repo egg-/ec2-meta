@@ -1,0 +1,26 @@
+{
+  "name": "ec2-meta",
+  "version": "0.1.0",
+  "author": {
+    "name": "egg",
+    "email": "i@egg.pe.kr"
+  },
+  "description": "Retrieving Instance Metadata",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/egg-/ec2-meta.git"
+  },
+  "keywords": [
+    "aws",
+    "ec2",
+    "meta",
+    "instance"
+  ],
+  "license": "MIT",
+  "main": "./index",
+  "devDependencies": {
+    "request": "^2.57.0"
+  },
+  "dependencies": {}
+}
