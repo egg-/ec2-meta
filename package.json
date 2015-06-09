@@ -22,5 +22,7 @@
   "devDependencies": {
     "request": "^2.57.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "request": "^2.57.0"
+  }
 }
